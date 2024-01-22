@@ -1,0 +1,14 @@
+/* Footer */
+
+footer {
+    display: flex;
+    text-align: center;
+    padding: 1rem;
+    list-style: none;
+    justify-content: space-between;
+    text-decoration: none;
+    padding: 2rem 10rem;
+  }
+  
+
+  
